@@ -1,0 +1,1 @@
+//number is octal or not
