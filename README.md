@@ -20,9 +20,8 @@ Whether you're starting with PHP or reviewing the basics, these programs offer a
 
 ---
 
-## 📁 Folder Structure
+## 🗂 Directory Map
 
-```
 
 PHP-Programs/
 ├─ basics/                # Simple syntax, variables, operators
@@ -32,7 +31,6 @@ PHP-Programs/
 ├─ forms/                 # HTML + PHP form handling
 ├─ README.md              # Project documentation
 
-````
 
 > Folder names may vary depending on how your code is structured. Adjust as needed.
 
