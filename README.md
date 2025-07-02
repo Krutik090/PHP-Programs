@@ -76,15 +76,3 @@ PHP-Programs/
 ## 📄 License
 
 This repository is for learning and demo purposes. No license applied.
-
-```
-
----
-
-## 🔖 Short GitHub Description (for About section)
-
-> A collection of basic PHP scripts and logic-building exercises for training, learning, and quick reference.
-
----
-
-```
